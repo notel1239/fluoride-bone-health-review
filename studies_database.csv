@@ -1,1 +1,2 @@
 study_id,author_year,study_design,sample_size,fluoride_source,fluoride_level_mg_L,bone_outcome_measure,finding_summary
+C,Study_C_2000,Cohort,15000,Water_Fluoridation,1.0,Hip_Fracture_Incidence,No significant association found
